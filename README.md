@@ -1,6 +1,6 @@
 # after-gruv
 
-![after-gruv screenshot](https://github.com/artis101/after-gruv/blob/master/screenshot.png?raw=true)
+![after-gruv screenshot](https://raw.githubusercontent.com/artis101/after-gruv/master/screenshot.png)
 
 ## Contents
 

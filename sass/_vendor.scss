@@ -48,7 +48,7 @@ a {
 
 a:hover {
   background-color: #d79921; /* Gruvbox yellow */
-  color: #282828; /* Gruvbox background */
+  color: #282828 !important; /* Gruvbox background */
 }
 
 .grid {
